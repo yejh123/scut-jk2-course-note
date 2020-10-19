@@ -2,7 +2,7 @@
 
 欢迎来到SCUT2018级CS2电子班级笔记，在这里，您可以看到以下课程的笔记：
 
- - 计算机网络
+ - [计算机网络](https://github.com/yejh123/scut-jk2-course-note/tree/main/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C)
  - 操作系统
  - 编译原理
  - 软件工程
