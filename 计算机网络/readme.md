@@ -15,5 +15,5 @@
  - TCP/IP参考模型
 
 
- <img src="./img/main1.png" width = "800" height = "400" alt="图片名称" align=center />
+ <img src="./img/main1.png" width = "1000" height = "500" alt="图片名称" align=middle />
 
